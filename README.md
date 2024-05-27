@@ -2,7 +2,7 @@
 
 This is a command-line application written in Go (Golang) for managing a to-do list. It allows you to add, list, complete, and remove tasks, with file persistence support to save tasks between sessions.
 
-## :books: Features
+## 📚 Features
 
 - **Add Task**: Allows you to add a new task.
 - **List Tasks**: Displays all pending and completed tasks.
@@ -10,7 +10,7 @@ This is a command-line application written in Go (Golang) for managing a to-do l
 - **Remove Task**: Removes a task from the list.
 - **File Persistence**: Saves the task list to a JSON file and automatically loads it on startup.
 
-## :floppy_disk: Data Structure
+## 🧱 Data Structure
 
 The data structure for a task is as follows:
 ```go
@@ -81,7 +81,11 @@ Choose an option:
 #### Code Structure
   - **main.go**: Contains the main logic of the application, including functions to add, list, complete, and remove tasks, as well as functions to save and load tasks from a file.
 
-## :handshake: Collaborators 
+## 💻 Technologies used
+
+[![techs](https://skillicons.dev/icons?i=go,git&theme=dark)](https://skillicons.dev)
+
+## 🤝 Collaborators 
 
 <table>
   <tr>
